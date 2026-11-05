@@ -1,29 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title description">
-  <title id="title">HERITIER JUNIOR</title>
-  <desc id="description">Étudiant en L3 IAGE — IGAF 2026, informatique appliquée et services numériques.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">HERITIER JUNIOR — L3 IAGE</title>
+  <desc id="description">Étudiant en L3 IAGE et fondateur de DEVELITE TECH, ingénierie logicielle et solutions innovantes.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#11133f"/>
-      <stop offset="0.58" stop-color="#20245f"/>
+      <stop offset="0" stop-color="#10122f"/>
+      <stop offset=".58" stop-color="#252268"/>
       <stop offset="1" stop-color="#10121b"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#a5f3d0"/>
-      <stop offset="1" stop-color="#87a9ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#27244f" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#171a2c" stop-opacity=".96"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="250" rx="18" fill="url(#background)"/>
-  <circle cx="1095" cy="48" r="155" fill="#6275ed" opacity=".12"/>
-  <circle cx="1184" cy="223" r="118" fill="#96f0ce" opacity=".08"/>
-  <path d="M0 213c225-60 397 33 624-5s394-65 656-5v47H0z" fill="#0c0e18" opacity=".4"/>
-  <path d="M54 54v142" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-  <text x="84" y="112" fill="#f5f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">HERITIER JUNIOR</text>
-  <text x="87" y="151" fill="#cbd3ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">ÉTUDIANT · L3 IAGE — IGAF 2026</text>
-  <text x="87" y="188" fill="#a5f3d0" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.2">INFORMATIQUE DE GESTION · SERVICES NUMÉRIQUES</text>
-  <g fill="none" stroke="#a5f3d0" opacity=".7">
-    <circle cx="1114" cy="123" r="43" stroke-width="2"/>
-    <circle cx="1114" cy="123" r="64" stroke-width="1" stroke-dasharray="4 8"/>
-    <path d="M1071 123h86M1114 80v86" stroke-width="1" opacity=".55"/>
+  <rect width="1280" height="300" rx="20" fill="url(#background)"/>
+  <circle cx="733" cy="21" r="205" fill="#7582ff" opacity=".09"/>
+  <circle cx="50" cy="280" r="122" fill="#95f0cc" opacity=".07"/>
+  <path d="M0 259c219-71 396 43 630-5s433-58 650-10v56H0z" fill="#090b14" opacity=".52"/>
+  <path d="M58 62v168" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="88" y="126" fill="#f5f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing=".5">HERITIER JUNIOR</text>
+  <text x="91" y="168" fill="#d5d9ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">ÉTUDIANT · L3 IAGE</text>
+  <text x="91" y="205" fill="#b9c3e8" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1">INFORMATIQUE DE GESTION · SOLUTIONS NUMÉRIQUES</text>
+  <g transform="translate(814 42)">
+    <rect width="421" height="216" rx="17" fill="url(#card)" stroke="#a5f3d0" stroke-opacity=".42" stroke-width="1.5"/>
+    <rect x="22" y="22" width="4" height="171" rx="2" fill="url(#accent)"/>
+    <text x="46" y="58" fill="#a5f3d0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">FONDATEUR &amp; CTO</text>
+    <text x="46" y="105" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing=".8">DEVELITE TECH</text>
+    <path d="M46 124h335" stroke="#a5f3d0" stroke-opacity=".3"/>
+    <text x="46" y="157" fill="#d8d8f3" font-family="Segoe UI, Arial, sans-serif" font-size="16">INGÉNIERIE LOGICIELLE</text>
+    <text x="46" y="183" fill="#d8d8f3" font-family="Segoe UI, Arial, sans-serif" font-size="16">&amp; SOLUTIONS INNOVANTES</text>
+    <circle cx="382" cy="36" r="5" fill="#a5f3d0"/>
   </g>
-  <circle cx="1114" cy="123" r="7" fill="#a5f3d0"/>
 </svg>

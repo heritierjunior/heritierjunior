@@ -1,10 +1,33 @@
-<img src="./profile-banner.svg" width="100%" alt="HERITIER JUNIOR — Étudiant en L3 IAGE, informatique et services numériques">
+<img src="./profile-banner.svg" width="100%" alt="HERITIER JUNIOR — Étudiant en L3 IAGE et fondateur de DEVELITE TECH">
 
-### Étudiant en L3 IAGE — IGAF 2026
+<p align="right"><a href="https://developpeurs-elite.vercel.app/"><strong>DEVELITE TECH</strong> — Ingénierie logicielle &amp; Solutions Innovantes ↗</a></p>
 
-Je m’appelle **HERITIER JUNIOR**. Je m’intéresse à l’informatique appliquée à la gestion des entreprises et à la création de services numériques. Ici, je partage mon parcours et les projets que je construis au fil de ma formation.
+### Étudiant en L3 IAGE
 
-[🌐 Mon portfolio](https://developpeurs-elite.vercel.app) &nbsp; · &nbsp; [💻 Mes dépôts GitHub](https://github.com/heritierjunior?tab=repositories)
+Je suis **HERITIER JUNIOR**, étudiant en informatique appliquée à la gestion des entreprises. Je partage ici mon parcours, mes apprentissages et les projets que je construis au fil de ma formation.
+
+[🌐 Mon portfolio](https://developpeurs-elite.vercel.app/) &nbsp; · &nbsp; [💻 Mes dépôts GitHub](https://github.com/heritierjunior?tab=repositories)
+
+---
+
+### 🚀 DEVELITE TECH
+
+En parallèle de mes études, je suis **fondateur et CTO de DEVELITE TECH**, un centre d’excellence consacré à l’ingénierie logicielle avancée et à l’intelligence artificielle appliquée. Notre objectif : concevoir des solutions numériques utiles et bâtir les infrastructures de demain.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><strong>💻 Ingénierie logicielle</strong><br>Applications sur mesure, architectures cloud et solutions évolutives.</td>
+    <td width="33%" valign="top"><strong>🧠 Intelligence artificielle</strong><br>IA appliquée, modèles de langage et vision par ordinateur.</td>
+    <td width="33%" valign="top"><strong>🔬 Recherche &amp; développement</strong><br>Exploration et création de nouvelles solutions numériques.</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><strong>📚 Formation numérique</strong><br>Transmettre les compétences et accompagner les talents.</td>
+    <td width="33%" valign="top"><strong>📱 Fintech &amp; mobile money</strong><br>Des services numériques pensés pour les usages d’aujourd’hui.</td>
+    <td width="33%" valign="top"><strong>☁️ Infrastructures</strong><br>Des bases fiables pour les services et applications de demain.</td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://developpeurs-elite.vercel.app/"><strong>Découvrir DEVELITE TECH et ses solutions →</strong></a></p>
 
 ---
 
@@ -14,7 +37,7 @@ Je m’appelle **HERITIER JUNIOR**. Je m’intéresse à l’informatique appliq
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 Mon parcours</h3>
-      <p>Étudiant en <strong>L3 IAGE — IGAF 2026</strong>, je développe mes connaissances en informatique de gestion et je documente les étapes de mon parcours.</p>
+      <p>En <strong>L3 IAGE</strong>, je développe mes connaissances en informatique de gestion et je documente les étapes de mon parcours.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ En ce moment</h3>
@@ -62,7 +85,7 @@ Je m’appelle **HERITIER JUNIOR**. Je m’intéresse à l’informatique appliq
 
 | Sujet | Ce que j’explore |
 |:--|:--|
-| [Portfolio](https://developpeurs-elite.vercel.app) | Structurer et présenter mon parcours et mes travaux avec Cecil. |
+| [Portfolio](https://developpeurs-elite.vercel.app/) | Structurer et présenter mon parcours et mes travaux avec Cecil. |
 | Firebase | Découvrir les services connectés, l’authentification et la gestion des données. |
 | Cloud computing | Comprendre l’hébergement, l’architecture et l’évolution des services. |
 | Outils numériques | Réfléchir à l’organisation de l’information et des échanges. |
