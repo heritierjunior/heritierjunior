@@ -1,14 +1,19 @@
-Hi there 👋
-heritierjunior/heritierjunior is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, moi c’est HERITIER JUNIOR 👋
 
-Here are some ideas to get you started:
+Étudiant en **L3 IAGE — IGAF 2026**, je m’intéresse à la création de services numériques et à la manière de présenter clairement les projets et les idées.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En ce moment
+
+- 🎓 Je poursuis mon parcours en L3 IAGE.
+- 🛠️ Je construis mon portfolio avec **Cecil**, **Markdown**, **Twig** et **Sass**.
+- ☁️ J’explore des sujets comme **Firebase**, le **cloud computing** et les outils numériques.
+- 📚 Je documente mes apprentissages et fais évoluer mes projets au fil de ma formation.
+
+## Mon portfolio
+
+Retrouvez mon parcours, mes projets et mon carnet de bord sur [mon portfolio](https://developpeurs-elite.vercel.app).
+
+## Me retrouver
+
+- GitHub : [@heritierjunior](https://github.com/heritierjunior)
+- Portfolio : [developpeurs-elite.vercel.app](https://developpeurs-elite.vercel.app)
