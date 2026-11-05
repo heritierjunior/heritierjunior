@@ -1,19 +1,84 @@
-# Bonjour, moi c’est HERITIER JUNIOR 👋
+<img src="./profile-banner.svg" width="100%" alt="HERITIER JUNIOR — Étudiant en L3 IAGE, informatique et services numériques">
 
-Étudiant en **L3 IAGE — IGAF 2026**, je m’intéresse à la création de services numériques et à la manière de présenter clairement les projets et les idées.
+### Étudiant en L3 IAGE — IGAF 2026
 
-## En ce moment
+Je m’appelle **HERITIER JUNIOR**. Je m’intéresse à l’informatique appliquée à la gestion des entreprises et à la création de services numériques. Ici, je partage mon parcours et les projets que je construis au fil de ma formation.
 
-- 🎓 Je poursuis mon parcours en L3 IAGE.
-- 🛠️ Je construis mon portfolio avec **Cecil**, **Markdown**, **Twig** et **Sass**.
-- ☁️ J’explore des sujets comme **Firebase**, le **cloud computing** et les outils numériques.
-- 📚 Je documente mes apprentissages et fais évoluer mes projets au fil de ma formation.
+[🌐 Mon portfolio](https://developpeurs-elite.vercel.app) &nbsp; · &nbsp; [💻 Mes dépôts GitHub](https://github.com/heritierjunior?tab=repositories)
 
-## Mon portfolio
+---
 
-Retrouvez mon parcours, mes projets et mon carnet de bord sur [mon portfolio](https://developpeurs-elite.vercel.app).
+### À propos
 
-## Me retrouver
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Mon parcours</h3>
+      <p>Étudiant en <strong>L3 IAGE — IGAF 2026</strong>, je développe mes connaissances en informatique de gestion et je documente les étapes de mon parcours.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ En ce moment</h3>
+      <p>Je conçois mon portfolio avec <strong>Cecil</strong>, <strong>Markdown</strong>, <strong>Twig</strong> et <strong>Sass</strong>, et je découvre la création de pages web.</p>
+    </td>
+  </tr>
+</table>
 
-- GitHub : [@heritierjunior](https://github.com/heritierjunior)
-- Portfolio : [developpeurs-elite.vercel.app](https://developpeurs-elite.vercel.app)
+### Sujets que j’explore
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>☁️ Cloud computing</strong><br>
+      Architecture, hébergement et évolution des services numériques.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔥 Firebase</strong><br>
+      Services connectés, authentification et organisation des données.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🌐 Création web</strong><br>
+      Structuration et présentation de contenus en ligne.
+    </td>
+    <td width="50%" valign="top">
+      <strong>✉️ Outils numériques</strong><br>
+      Organisation de l’information et des échanges avec des outils comme Gmail.
+    </td>
+  </tr>
+</table>
+
+### Outils utilisés
+
+`Cecil` &nbsp; `Markdown` &nbsp; `Twig` &nbsp; `Sass` &nbsp; `HTML` &nbsp; `CSS`
+
+### Ce que je souhaite développer
+
+- **Mieux présenter mes réalisations** : expliquer le contexte, les étapes et les choix faits pour chaque projet.
+- **Renforcer mes compétences web** : continuer à apprendre la structuration et la mise en forme de pages.
+- **Explorer les services numériques** : approfondir des sujets comme Firebase et le cloud computing.
+
+### Mes projets
+
+| Sujet | Ce que j’explore |
+|:--|:--|
+| [Portfolio](https://developpeurs-elite.vercel.app) | Structurer et présenter mon parcours et mes travaux avec Cecil. |
+| Firebase | Découvrir les services connectés, l’authentification et la gestion des données. |
+| Cloud computing | Comprendre l’hébergement, l’architecture et l’évolution des services. |
+| Outils numériques | Réfléchir à l’organisation de l’information et des échanges. |
+
+Ces sujets reflètent mon parcours et mes pistes d’apprentissage. Je complète leur présentation à mesure que j’ai des réalisations concrètes à partager. Retrouvez-les sur [mon portfolio](https://developpeurs-elite.vercel.app) et dans [mes dépôts GitHub](https://github.com/heritierjunior?tab=repositories).
+
+### Ma démarche
+
+**Comprendre le besoin → explorer les outils → construire → documenter.**
+
+J’essaie de présenter chaque travail avec clarté et de faire évoluer ce portfolio au fil de ma formation, en privilégiant les expériences réelles et les apprentissages que je peux expliquer.
+
+---
+
+### Me retrouver
+
+[🌐 Portfolio](https://developpeurs-elite.vercel.app) &nbsp; · &nbsp; [💻 GitHub](https://github.com/heritierjunior) &nbsp; · &nbsp; [📂 Dépôts](https://github.com/heritierjunior?tab=repositories)
+
+<p align="center"><strong>Apprendre en faisant, et progresser projet après projet. ✨</strong></p>
